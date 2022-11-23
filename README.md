@@ -1,2 +1,3 @@
 # Robo_Ladeanimation
-Simple robo loadanimation to run on an Arduino Mega with  a  wreath of lights.
+Simple too robo loadanimation to run on an Arduino Mega with  a  wreath of lights. You can change the brightness with an 
+potentiometer on the right Port.
